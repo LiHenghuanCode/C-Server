@@ -1,0 +1,5 @@
+Sessions:
+- start: 2025-02-23 20:05
+  end: 2025-02-23 21:24
+  notes " Basd on TCP, use socket to implent simple networking"
+  problem:" when client input empty and press Enter, all process are bugging"
